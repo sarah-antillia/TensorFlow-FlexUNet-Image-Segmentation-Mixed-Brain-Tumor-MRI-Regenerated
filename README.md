@@ -80,7 +80,7 @@ Classes: 1: Meningioma, 2: Glioma, 3: Pituitary<br>
 Additional fields include: tumorMask, tumorBorder, and Patient ID<br>
 </li>
 </ul>
-<b>Dataset Construction Process</b>
+<b>Dataset Construction Process</b><br>
 To create a consistent, robust, and balanced dataset:<br>
 <ul>
 <li>Data from both datasets were extracted, filtered, and converted into uniform image and mask formats.</li>
