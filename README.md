@@ -67,7 +67,8 @@ Contains labeled images and masks in four classes:<br>
 Format: Images with masks (.jpg)<br>
 Citation:<br>
 <pre>
-Akter, A. et al. (2024). Robust clinical applicable CNN and U-Net based algorithm for MRI classification and segmentation for brain tumor. Expert Systems with Applications, 238, 122347.
+Akter, A. et al. (2024). Robust clinical applicable CNN and U-Net based algorithm for MRI classification and 
+segmentation for brain tumor. Expert Systems with Applications, 238, 122347.
 <a href="https://www.sciencedirect.com/science/article/pii/S095741742302849X?via%3Dihub">[Bibtex]</a>
 </pre>
 </li>
